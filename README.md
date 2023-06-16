@@ -58,4 +58,4 @@ Link API Register: (https://6461981c185dd9877e3f45ca.mockapi.io/register)
 
 ## Authors
 
-- [@anugerah20](https://www.github.com/octokatherine)
+- [@anugerah20](https://www.github.com/anugerah20)
